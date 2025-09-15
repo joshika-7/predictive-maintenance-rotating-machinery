@@ -11,17 +11,6 @@ The approach enables **early fault detection**, helping to prevent
 unexpected breakdowns and reduce downtime in utility equipment like
 motors and pumps.
 
-------------------------------------------------------------------------
-
-## ⚙️ Machine & Setup
-
--   **Machine:** 0.5 HP Monoblock Electric Motor
--   **Load:** 3.5 kg applied using a load cell
--   **Component Monitored:** Bearing
--   **Sensor:** ADXL335 Accelerometer mounted at 45° on bearing cover
--   **Parameter Collected:** Vibration (measured in *g*)
-
-------------------------------------------------------------------------
 
 ## 🛠️ Current vs Proposed Maintenance
 
@@ -103,8 +92,4 @@ motors and pumps.
 -   Enables **real-time monitoring** and early failure prediction to
     minimize machine downtime.
 
-------------------------------------------------------------------------
 
-## 📜 License
-
-This project is released under the **MIT License**.
