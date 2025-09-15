@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was done collaboratively by three college students for a National Level Hackathon - i4.0 Maxbyte - PSG Tech Hackathon. It is split into two versions - v1_matlab where the data was analysed using MATLAB and v2_python where Python classic Machine Learning models were used on the obtained dataset. 
+This project was done collaboratively by three college students for a National Level Hackathon - i4.0 Maxbyte - PSG Tech Hackathon. It is split into two versions - v1_matlab where the data was analysed using MATLAB and v2_python where Python's classic Machine Learning models were used on the obtained dataset. 
 
 ------------------------------------------------------------------------
 
